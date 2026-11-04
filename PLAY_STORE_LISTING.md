@@ -2,8 +2,8 @@
 **Application:** Orvakal: Village & Smart Digital Hub  
 **Developer Team:** Orvakal Community & Civic Portal Team  
 **Contact Email:** prasanna.tws@gmail.com  
-**Package Name:** `com.orvakal.app`  
-**Target SDK:** 34 (Android 14) — Complies with Google Play 2024/2025/2026 requirements  
+**Package Name:** `com.digitalhub.orvakal`  
+**Target SDK:** 36 (Android 16) — Complies with Google Play target API requirements  
 **Minimum SDK:** 24 (Android 7.0+)  
 
 ---
