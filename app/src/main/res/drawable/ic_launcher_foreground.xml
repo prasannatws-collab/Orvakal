@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 12-Segment Dashed Ring (Outer Radius 35, Center 54,54) -->
+    <!-- Segment 1: Top (90 deg / 12 o'clock) -->
+    <path
+        android:strokeColor="#00BCD4"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 48.5,19.4 A 35,35 0 0,1 59.5,19.4" />
+
+    <!-- Segment 2: Top-Right 1 -->
+    <path
+        android:strokeColor="#0097A7"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 68.2,22.2 A 35,35 0 0,1 77.2,28.8" />
+
+    <!-- Segment 3: Top-Right 2 -->
+    <path
+        android:strokeColor="#00897B"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 83.2,37.3 A 35,35 0 0,1 87.8,47.5" />
+
+    <!-- Segment 4: Right (3 o'clock) -->
+    <path
+        android:strokeColor="#26A69A"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 88.6,58.0 A 35,35 0 0,1 85.8,68.8" />
+
+    <!-- Segment 5: Bottom-Right 1 -->
+    <path
+        android:strokeColor="#43A047"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 79.5,77.5 A 35,35 0 0,1 71.0,84.7" />
+
+    <!-- Segment 6: Bottom-Right 2 -->
+    <path
+        android:strokeColor="#7CB342"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 60.5,88.4 A 35,35 0 0,1 49.5,88.7" />
+
+    <!-- Segment 7: Bottom (6 o'clock) -->
+    <path
+        android:strokeColor="#9E9D24"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 39.5,85.5 A 35,35 0 0,1 30.2,79.0" />
+
+    <!-- Segment 8: Bottom-Left 1 -->
+    <path
+        android:strokeColor="#C0CA33"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 23.8,70.0 A 35,35 0 0,1 20.0,59.5" />
+
+    <!-- Segment 9: Left (9 o'clock) -->
+    <path
+        android:strokeColor="#26C6DA"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 19.3,49.0 A 35,35 0 0,1 22.1,38.5" />
+
+    <!-- Segment 10: Top-Left 1 -->
+    <path
+        android:strokeColor="#00ACC1"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 28.0,29.5 A 35,35 0 0,1 36.8,22.8" />
+
+    <!-- Center Warm Sun -->
+    <!-- Base Orange Sun Disk -->
+    <path
+        android:fillColor="#FFA726"
+        android:pathData="M 54,23 A 22,22 0 1,1 53.99,23 Z" />
+
+    <!-- Sun Warm Inner Gradient/Accent -->
+    <path
+        android:fillColor="#FB8C00"
+        android:pathData="M 54,27 A 17,17 0 1,1 53.99,27 Z" />
+
+    <!-- Center Green Leaf pointing downward -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M 54,44 C 64,52 64,66 54,73 C 44,66 44,52 54,44 Z" />
+
+    <!-- Leaf Center Rib / Vein -->
+    <path
+        android:strokeColor="#1B5E20"
+        android:strokeWidth="1.2"
+        android:pathData="M 54,47 L 54,70" />
+
+    <!-- Loop / Sprout Ring on top of leaf -->
+    <path
+        android:strokeColor="#00E676"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:pathData="M 53,52 C 55,44 67,46 66,54 C 65,60 55,60 53,54 Z" />
+
+</vector>
